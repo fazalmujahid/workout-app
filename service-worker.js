@@ -28,11 +28,19 @@ const urlsToCache = [
   'https://hips.hearstapps.com/hmg-prod/images/workouts/2016/03/gobletsquat-1457030891.gif',
   'https://lh7-us.googleusercontent.com/LGpo5EbCLMKP3wY7iTQ6EiR0wDwDd1cPWrTMciiLXPdpfwH6DyURDgHQ-rGB1myEpzBi8KrTro_GXxzYLnicOX7vVs90SRTHERAPYIB_77RSRHNOWl4LBZ7HwaNu0tsbX7Lf1lpgoEmA8QHaT5zNQ3A',
   'https://cdn.jefit.com/assets/img/exercises/gifs/142.gif',
-  // Day 4 (up to Exercise 4)
+  // Day 4
   'https://barbend.com/wp-content/uploads/2023/12/seated-dumbbell-shoulder-press-barbend-movement-gif-masters-2.gif',
   'https://cdn.jefit.com/assets/img/exercises/gifs/32.gif',
   'https://i.pinimg.com/originals/e1/59/bf/e159bff8b4544f32c221cf6eb12c6a68.gif',
   'https://cdn.jefit.com/assets/img/exercises/gifs/1108.gif',
+  'https://www.fitnesscim.com/wp-content/uploads/2018/08/Raised-Leg-Crunch.gif',
+  'https://gifdb.com/images/high/man-in-blue-doing-bicycle-crunches-exercise-bf3rojluw43kjlr2.gif',
+  'https://static.wixstatic.com/media/c94d75_88e076d90f374a23bd4a62b26ad2ba80~mv2.gif',
+  // Day 5
+  'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/workouts/2016/03/bodyweightsquat-1457041691.gif',
+  'https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bodyweight_Squat/0.jpg',
+  'https://hips.hearstapps.com/hmg-prod/images/workouts/2016/03/plank-1457045584.gif',
+  'https://cdn.jefit.com/assets/img/exercises/gifs/874.gif',
 ];
 
 self.addEventListener('install', event => {
